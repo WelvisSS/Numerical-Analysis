@@ -1,0 +1,12 @@
+Retardada = 31.3125
+Centrada = 66.5625
+Avancada = 101.8125
+
+Retardada = 0.25
+Centrada = 6.75
+Avancada = 13.25
+
+Retardada = 14047.152924789525
+Centrada = 36761.47779945741
+Avancada = 59475.8026741253
+

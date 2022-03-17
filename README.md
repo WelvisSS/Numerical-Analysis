@@ -1,2 +1,5 @@
 # Numerical-Analysis
-Numerical analysis scripts
+### Numerical analysis scripts
+## Modelos Desenvolvidos:
+- Bissecção
+- Condição da matriz
