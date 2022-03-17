@@ -23,3 +23,6 @@
 - Regressão Linear
 - Secante
 - Shooting
+
+# OBS: 
+### Os modelos desenvolvidos estão em aprimoramento, e por conta disso, pode ocorrer algum resultado incorreto.
