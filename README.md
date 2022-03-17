@@ -22,7 +22,7 @@
 - [Quadratura Gaus](https://github.com/WelvisSS/Numerical-Analysis/blob/main/Bisseccao/bisseccao.py)
 - [Regressão Linear](https://github.com/WelvisSS/Numerical-Analysis/blob/main/Bisseccao/bisseccao.py)
 - [Secante](https://github.com/WelvisSS/Numerical-Analysis/blob/main/Bisseccao/bisseccao.py)
-- [Shooting](https://github.com/WelvisSS/Numerical-Analysis/blob/main/Bisseccao/bisseccao.py)
+- [Shooting]()
 
 # OBS: 
 ### Os modelos desenvolvidos estão em aprimoramento, e por conta disso, pode ocorrer algum resultado incorreto.
